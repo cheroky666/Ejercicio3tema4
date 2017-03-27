@@ -20,7 +20,7 @@ public class Coche extends Vehiculotransporte {
     }
 
     /**
-     * constructor por parametros de coche que hereda de vehiculosss.
+     * constructor por parametros de coche que hereda de vehiculosssssss.
      * 
      *
      * @param numeroplazas numero de plazas.
